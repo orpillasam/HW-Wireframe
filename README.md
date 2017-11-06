@@ -2,8 +2,11 @@
 Homework - 1st - my portfolio
 
 UCI Full Stack Web Development 24 week Boot Camp 9/25/17 to 4/7/18
+
 Homework #1 - Easier Assignment
+
 Assigned: 9/30/17
+
 Due: 10/7/17
 
 This is my first homework assignment, assigned a week after my introduction to HTML and CSS. 
